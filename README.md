@@ -1,2 +1,2 @@
 # shopfy
- Exercicio
+ Exercicio de site
